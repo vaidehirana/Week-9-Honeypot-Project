@@ -19,4 +19,6 @@ I tried alternate method but still it didn't allow me to view it, but I was able
 
 A summary of the data collected: number of attacks, number of malware samples, etc.
 
+<img src= "https://github.com/vaidehirana/Week-9-Honeypot-Project/blob/master/Summary%20of%20Attacks.JPG" length="400" width="800">
+
 Any unresolved questions raised by the data collected
