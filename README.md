@@ -5,7 +5,7 @@ I deployed Ubuntu - Dionaea with HTTP
 
 Any issues you encountered?
 Yes, I had to redo Milestone 2 many times as it was giving me errors and not going through.
-In milestone 3 I was able to deploy the honeypots, it was success but I couldn't see the attacks. The report was empty as you can see in the gif below:
+In milestone 3 I was able to deploy the honeypots, it was success but I could see the attacks but the attack report was empty as you can see in the gif below:
 
 <img src= "https://github.com/vaidehirana/Week-9-Honeypot-Project/blob/master/Milestone%204.gif" width="800">
 
