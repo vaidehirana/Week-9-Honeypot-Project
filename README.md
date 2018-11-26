@@ -11,9 +11,11 @@ In milestone 3 I was able to deploy the honeypots, it was success but I couldn't
 
 I had issues with exporting data as Json, it didn't allow me to go through the links, it gave me below error:
 
+<img src= "https://github.com/vaidehirana/Week-9-Honeypot-Project/blob/master/Json%20error.JPG"width="800">
 
 I tried alternate method but still it didn't allow me to view it, but I was able to download the file. My attacks were 6394 but the exports still were 0.
 
+<img src= "https://github.com/vaidehirana/Week-9-Honeypot-Project/blob/master/Json%20download.JPG" width="800">
 
 A summary of the data collected: number of attacks, number of malware samples, etc.
 
