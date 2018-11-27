@@ -13,7 +13,7 @@ I had issues with exporting data as Json, it didn't allow me to go through the l
 
 <img src= "https://github.com/vaidehirana/Week-9-Honeypot-Project/blob/master/Json%20error.JPG" height="600" width="800">
 
-I tried alternate method but still it didn't allow me to view it, but I was able to download the file. My attacks were 6394 but the exports still were 0.
+I tried alternate method but still it didn't allow me to view it, but I was able to download the file. My attacks were 6394 but the exports still were 0 as you can view in the below image:
 
 <img src= "https://github.com/vaidehirana/Week-9-Honeypot-Project/blob/master/Json%20download.JPG" height="600" width="800">
 
@@ -23,5 +23,5 @@ A summary of the data collected: number of attacks, number of malware samples, e
 
 Any unresolved questions raised by the data collected? After the second attempt I was able to get the answers to all my questions.
 
-session.jason file
-https://github.com/vaidehirana/Week-9-Honeypot-Project/blob/master/session.json
+
+[session.jason file](https://github.com/vaidehirana/Week-9-Honeypot-Project/blob/master/session.json)
